@@ -6,6 +6,6 @@ Texto de prueba.
 
 Texto de prueba 2.
 
-## Desarrollo local
+## Desarrollo local (feature readme)
 
 1. Open index.html in your browser
