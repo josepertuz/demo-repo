@@ -9,3 +9,4 @@ Texto de prueba 2.
 ## Desarrollo local
 
 1. Open index.html in your browser
+2. Esto lo hice
